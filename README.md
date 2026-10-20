@@ -1,16 +1,27 @@
-## Hi there 👋
+# Akshay Kumar Bolusani
 
-<!--
-**AkshayKumarBolusani/AkshayKumarBolusani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full Stack Developer | AI/ML Engineer | Founder of ProjectKaro**
 
-Here are some ideas to get you started:
+I build software products, AI-powered applications, and practical developer tools. My work spans full-stack engineering, machine learning, document intelligence, and applied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+
+**[India-Invoice AI](https://github.com/AkshayKumarBolusani/India-Invoice)**
+
+An open-source project focused on invoice document ingestion, structured data extraction, validation, and evaluation for Indian invoice workflows.
+
+### What I Work On
+
+- **Full-Stack Development:** React, Next.js, Node.js, FastAPI, and databases.
+- **AI & Machine Learning:** NLP, computer vision, LLM applications, and retrieval-augmented generation.
+- **Document Intelligence:** OCR, structured extraction, schema validation, and evaluation pipelines.
+- **Entrepreneurship:** Building and delivering software solutions through ProjectKaro.
+
+### Connect With Me
+
+- **Portfolio:** https://akshaykumarbolusani.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/akshaykumarbolusani/
+- **GitHub:** https://github.com/AkshayKumarBolusani
+- **ProjectKaro:** https://projectkaro.com
+
+I welcome meaningful collaboration on software engineering, applied AI, and open-source projects.
