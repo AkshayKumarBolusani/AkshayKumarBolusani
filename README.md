@@ -134,49 +134,79 @@ See the repository documentation for the implemented features and supported use 
 
 ## Additional AI & Research Work
 
-The following projects are part of my broader engineering portfolio. Where a dedicated public repository is not linked, visit my portfolio for available project descriptions and demonstrations.
+Beyond my four featured repositories, I work on applied AI, machine learning, document intelligence, healthcare-related ML research, and experimental quantum computing.
 
 ### Hybrid Quantum GAN Drug Discovery
+An experimental generative-modelling project exploring hybrid quantum-classical approaches to molecular generation, QSAR modelling, toxicity profiling, and computational drug discovery.
 
-Exploring hybrid quantum-classical generative modelling for computational drug-discovery workflows, including molecular generation and model evaluation.
-
-**Research interests:** Quantum machine learning, generative models, computational chemistry.
+- **Areas:** Generative AI, quantum ML, computational chemistry.
+- **Technologies:** Python, PyTorch, PennyLane, Qiskit, RDKit, DeepChem, Streamlit.
+- **Project overview:** [View on my portfolio](https://akshaykumarbolusani.vercel.app/)
 
 ### Multimodal Annual Report RAG
+A retrieval-augmented generation system for answering questions about complex annual reports, with emphasis on document parsing, evidence retrieval, page-level citations, and evaluation.
 
-A document-intelligence project exploring retrieval-augmented question answering over annual-report material, with attention to text, tables, figures, page-level citations, and evidence-grounded evaluation.
-
-**Research interests:** RAG, document parsing, multimodal retrieval, citation correctness, evaluation.
+- **Areas:** RAG, document intelligence, multimodal retrieval, evaluation.
+- **Project source:** [Browse my public repositories](https://github.com/AkshayKumarBolusani?tab=repositories)
 
 ### Anemia Data Analysis & Predictive Pipeline
+A machine-learning pipeline exploring preprocessing, multiple imputation, classification, model explainability, dataset provenance, and label-leakage analysis.
 
-A data-science pipeline exploring preprocessing, imputation, classification, model interpretation, dataset provenance, label leakage, and reproducible evaluation for anemia-related data.
+- **Areas:** Machine learning, data quality, explainability, reproducible evaluation.
+- **Project source:** [Browse my public repositories](https://github.com/AkshayKumarBolusani?tab=repositories)
 
-**Research interests:** Statistical learning, data quality, SHAP, responsible model evaluation.
+*Research and engineering project; not a clinical diagnostic tool.*
 
-*This is a research and engineering project, not a clinical diagnostic tool.*
+### LLM E-Commerce Recommendation System
+A conversational product-discovery and recommendation application combining language-model integration with product data and recommendation workflows.
 
-### LLM-Based E-Commerce Recommendation System
+- **Areas:** Recommendation systems, LLM applications, retrieval, full-stack development.
+- **Project overview:** [View on my portfolio](https://akshaykumarbolusani.vercel.app/)
 
-Exploring conversational product discovery and recommendation workflows using language-model integration and data-driven product information.
+### Li-Ion Battery State-of-Health Prediction
+A predictive modelling project exploring physics-guided feature engineering, classical ML, deep learning, cross-battery validation, and deployment.
 
-**Research interests:** Recommendation systems, LLM applications, retrieval, product discovery.
+- **Areas:** Time-series modelling, energy systems, deep learning.
+- **Repository:** [Li-ion Battery SOH Prediction](https://github.com/AkshayKumarBolusani/Li-ion-Battery-State-of-Health-SOH-Prediction)
+
+*The repository is currently private. Make it public before sharing it with visitors.*
 
 ### Soil & Crop Intelligence
+An applied ML project exploring soil contamination prediction from satellite spectral data and crop recommendations.
 
-An applied machine-learning concept exploring soil analysis, spectral data, and crop-recommendation workflows.
+- **Areas:** Remote sensing, agricultural ML, decision support.
+- **Project overview:** [View on my portfolio](https://akshaykumarbolusani.vercel.app/)
 
-**Research interests:** Predictive modelling, remote sensing, agricultural decision support.
+### Quantum Chest X-Ray Generator
+An experimental generative-modelling project exploring quantum-circuit concepts within synthetic chest X-ray generation.
 
-### Quantum Chest X-Ray Generation
+- **Areas:** Generative AI, diffusion models, quantum ML.
+- **Project overview:** [View on my portfolio](https://akshaykumarbolusani.vercel.app/)
 
-An experimental exploration of generative modelling and quantum-computing concepts for synthetic medical-imaging workflows.
+*Experimental research; not a clinically validated imaging system.*
 
-**Research interests:** Generative AI, diffusion models, quantum machine learning.
+### Skin Cancer Detection — DINOv2 & ResNet50
+A computer-vision application exploring skin-lesion classification with vision-transformer and CNN architectures, a FastAPI backend, and optional LLM interaction.
 
-### Other Research Projects
+- **Areas:** Computer vision, deep learning, applied AI.
+- **Public repository:** [vit-cnn-skin-cancer-detection](https://github.com/AkshayKumarBolusani/vit-cnn-skin-cancer-detection)
 
-For additional work and available demonstrations, visit my [portfolio](https://akshaykumarbolusani.vercel.app/) or [public repositories](https://github.com/AkshayKumarBolusani?tab=repositories).
+*Experimental screening software; not a substitute for professional medical assessment.*
+
+### Pill Classification
+An image-classification application built around TensorFlow and FastAPI, with optional drug-information integrations.
+
+- **Areas:** Image classification, model serving, healthcare-related AI.
+- **Public repository:** [pill-classification-keras](https://github.com/AkshayKumarBolusani/pill-classification-keras)
+
+### Pharmaceutical Regulatory Compliance Agent
+A research prototype combining rule-based checks and RAG over regulatory documents to flag potential reporting issues and provide evidence-grounded explanations.
+
+- **Areas:** Regulatory AI, RAG, document analysis.
+- **Public repository:** [pharmaceutical-regulatory-compliance-agent](https://github.com/AkshayKumarBolusani/pharmaceutical-regulatory-compliance-agent)
+
+### More Projects
+Explore my [public GitHub repositories](https://github.com/AkshayKumarBolusani?tab=repositories), [portfolio](https://akshaykumarbolusani.vercel.app/), and [LinkedIn](https://www.linkedin.com/in/akshaykumarbolusani/) for additional projects, technical updates, and professional work.
 
 ---
 
